@@ -9,6 +9,7 @@ This is the official Cloudant client library for Python.
    compatibility
    getting_started
    cloudant
+   partitioned_databases
 
 * :ref:`genindex`
 

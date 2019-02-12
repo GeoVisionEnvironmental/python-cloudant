@@ -1,7 +1,8 @@
 # Unreleased
 
-- [IMPROVED] Updated `Getting started` section with a `get_query_result` example. 
+- [FIXED] Bug where document CM performed save in event of uncaught exception.
 - [FIXED] Fixed parameter type of `selector` in docstring.
+- [IMPROVED] Updated `Getting started` section with a `get_query_result` example.
 
 # 2.11.0 (2019-01-21)
 
